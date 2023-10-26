@@ -1,0 +1,44 @@
+name: weather_app_assignment_assignment
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  bloc: ^8.1.1
+  dio: ^5.1.0
+  equatable: ^2.0.5
+  firebase_auth: ^4.12.0
+  firebase_core: ^2.20.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_dotenv: ^5.0.2
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.8
+  google_sign_in: ^6.1.5
+  location: ^4.4.0
+  lottie: ^2.3.1
+  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - a.env

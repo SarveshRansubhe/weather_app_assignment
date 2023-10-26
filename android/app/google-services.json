@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "59638025491",
+    "project_id": "sarvesh-weather",
+    "storage_bucket": "sarvesh-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59638025491:android:be3c5e80213b80e67c1ee6",
+        "android_client_info": {
+          "package_name": "com.example.weather_app_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59638025491-ch2tmpptluqbnap40hdih5688hef78ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weather_app_assignment",
+            "certificate_hash": "081b1fed4197b4094b0ec9517a23b357c8f79075"
+          }
+        },
+        {
+          "client_id": "59638025491-siohk4ut5145cp8t3nmval330875ah5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weather_app_assignment",
+            "certificate_hash": "b24844bfa05ada9f8a13c6eef95f2d026e231fda"
+          }
+        },
+        {
+          "client_id": "59638025491-gq4q8od4qlrb3cribc3t90ja1bv3j4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2Xq0hKS9OWL9LqXkoUUkDo5AyiI-Uc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59638025491-gq4q8od4qlrb3cribc3t90ja1bv3j4p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59638025491-9m5leaqqm9m1qcro92jp7dm44gbh8ht6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
